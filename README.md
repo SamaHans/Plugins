@@ -1,2 +1,5 @@
 # Plugins
-C++ plugins model
+## Main purpose
+Implement C++ plugins model
+
+## Features
