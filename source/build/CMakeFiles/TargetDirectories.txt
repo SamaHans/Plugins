@@ -1,0 +1,4 @@
+C:/github/SamaHans/Plugins/source/build/CMakeFiles/plugins.dir
+C:/github/SamaHans/Plugins/source/build/CMakeFiles/main.dir
+C:/github/SamaHans/Plugins/source/build/CMakeFiles/edit_cache.dir
+C:/github/SamaHans/Plugins/source/build/CMakeFiles/rebuild_cache.dir
